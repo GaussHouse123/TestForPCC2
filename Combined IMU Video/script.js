@@ -940,4 +940,3 @@ main().catch((err) => {
   console.error(err);
   setStatus("Error during initialization. See console for details.");
 });
-
